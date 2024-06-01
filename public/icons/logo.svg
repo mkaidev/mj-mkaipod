@@ -4,8 +4,8 @@
 	 width="300px" height="300px" viewBox="0 0 300 300" enable-background="new 0 0 300 300" xml:space="preserve">
 <g id="XMLID_632_">
 	<linearGradient id="XMLID_2_" gradientUnits="userSpaceOnUse" x1="150" y1="0" x2="150" y2="300">
-		<stop  offset="0" style="stop-color:#f83837"/>
-		<stop  offset="1" style="stop-color:#f97535"/>
+		<stop  offset="0" style="stop-color:#F83837"/>
+		<stop  offset="1" style="stop-color:#F97535"/>
 	</linearGradient>
 	<path id="XMLID_662_" fill-rule="evenodd" clip-rule="evenodd" fill="url(#XMLID_2_)" d="M294.1,260c-2.9,7.4-9.6,17.8-19.2,25.2
 		c-5.5,4.2-12.1,8.3-21.1,11c-9.6,2.9-21.5,3.8-36.3,3.8h-135c-14.8,0-26.6-1-36.3-3.8c-9-2.7-15.6-6.7-21.1-11
